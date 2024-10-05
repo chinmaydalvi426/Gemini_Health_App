@@ -1,2 +1,3 @@
-# Gemini_Health_App
- The app allows users to upload an image of food, and using AI, it generates a list of ingredients along with their respective calorie counts.
+The Gemini health Calorie Advising App is a Streamlit-based web application designed to help users track and manage their daily calorie intake.
+here you insert a photo and will tell you how many calories are present in that food and thus you can maintain your calorie intake
+# GEMINI-HEALTH-APP
